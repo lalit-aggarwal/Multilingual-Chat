@@ -1,0 +1,9 @@
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatServer\MultiChatServer\bin\Debug\MultiChatServer.exe
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatServer\MultiChatServer\bin\Debug\MultiChatServer.pdb
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatServer\MultiChatServer\obj\x86\Debug\MultiChatServer.Properties.Resources.resources
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatServer\MultiChatServer\obj\x86\Debug\MultiChatServer.csproj.GenerateResource.Cache
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatServer\MultiChatServer\obj\x86\Debug\MultiChatServer.exe
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatServer\MultiChatServer\obj\x86\Debug\MultiChatServer.pdb
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatServer\MultiChatServer\obj\x86\Debug\MultiChatServer.csprojResolveAssemblyReference.cache
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatServer\MultiChatServer\obj\x86\Debug\MultiChatServer.Form1.resources
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatServer\MultiChatServer\bin\Debug\MultiChatServer.exe.config

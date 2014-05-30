@@ -1,0 +1,9 @@
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatClient\MultiChatClient\bin\Debug\MultiChatClient.exe
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatClient\MultiChatClient\bin\Debug\MultiChatClient.pdb
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatClient\MultiChatClient\obj\x86\Debug\MultiChatClient.Form1.resources
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatClient\MultiChatClient\obj\x86\Debug\MultiChatClient.Properties.Resources.resources
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatClient\MultiChatClient\obj\x86\Debug\MultiChatClient.csproj.GenerateResource.Cache
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatClient\MultiChatClient\obj\x86\Debug\MultiChatClient.exe
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatClient\MultiChatClient\obj\x86\Debug\MultiChatClient.pdb
+c:\users\lalit\documents\visual studio 2010\Projects\MultiChatClient\MultiChatClient\bin\Debug\MultiChatClient.exe.config
+C:\Users\Lalit\Documents\Visual Studio 2010\Projects\MultiChatClient\MultiChatClient\obj\x86\Debug\MultiChatClient.csprojResolveAssemblyReference.cache
